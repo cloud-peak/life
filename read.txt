@@ -1,4 +1,4 @@
-配置到服务器上注意事项
+﻿配置到服务器上注意事项
 1.修改public/javascripts/life.js 中 Life.JavaHost对应为服务器tomcat的host
 2.修改public/javascripts/life.js 中 Life.Host对应为服务器node的host
 
@@ -14,4 +14,4 @@
 忘记密码功能
 界面跳转是否需要登陆
 活动海报截图
-日期选择设置为中文
+日期选择设置为中文2
